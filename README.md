@@ -8,7 +8,7 @@
       ├─ libft/           C library
       ├─ push_swap/       Two-stack sorting algorithm
       ├─ fract-ol/        Fractal exploration program
-      ├─ minitalk/        Client-Server comunication throw UNIX signals
+      ├─ minitalk/        Client-Server comunication through UNIX signals
       ├─ philosophers/    Multi-threading and multi-process
       ├─ minishell/       Simple shell
       ├─ miniRT/          Ray tracing engine
