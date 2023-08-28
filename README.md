@@ -19,4 +19,4 @@
       ├─ ft_containers/     C++ STL containers implementation
       ├─ ft_irc/            IRC server in C++ 98
       ├─ inception/         Creation of Docker network, with NGINX, Wordpress and MariaDB
-      └─ ft_transcendance/  Web application, profile managment, friend, online game and chat
+      └─ ft_transcendance/  Web application, profile managment, friends, online game and chat
